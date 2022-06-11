@@ -31,8 +31,9 @@ public class ChatLayout extends RelativeLayout {
 
         final float adjustVal = (float) 12.667;
 
-        if(getChildCount()<3)
+        if(getChildCount()<3) {
             return;
+        }
 
         int imageViewWidth = getChildAt(0).getMeasuredWidth();
         int timeWidth = getChildAt(1).getMeasuredWidth();
