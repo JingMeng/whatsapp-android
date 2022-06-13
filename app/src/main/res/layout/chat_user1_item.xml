@@ -28,7 +28,7 @@
             android:layout_height="wrap_content"
             android:paddingLeft="6dp"
             android:autoLink="web"
-            android:text="Rahul Agrawal is a good boy but he does not know what he wants."
+            android:text="Rahul Agrawal is a good boy but he does not know what he wants.does not knowknow"
             style="@style/chat_text_message_style"/>
 
     </FrameLayout>
